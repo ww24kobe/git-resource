@@ -4,6 +4,7 @@
 * 介绍一个成功的 Git 分支模型：http://www.oschina.net/translate/a-successful-git-branching-model
 
 ## GUI-sourceTree
+软件[下载地址](https://www.sourcetreeapp.com/)
 * http://blog.csdn.net/android_zhengyongbo/article/details/72885860 （推荐）
 * http://www.jianshu.com/p/6d2717c2a3e1
 
